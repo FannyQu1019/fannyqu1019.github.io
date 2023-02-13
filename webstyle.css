@@ -1,0 +1,64 @@
+body {
+    font-family: Arial;
+    background-color: #c3bde1d8;
+    line-height: 25px;
+    min-height: 100vh;
+    min-width: 200px;
+    max-width: 1200px;
+  }
+  .welcome {
+    font-size: 30px;
+    color: #333;
+    text-align: center;
+  }
+  .text{
+    text-align: left;
+
+  }
+  img {
+    border-radius: 10px;
+    margin-right: 15px;
+    box-shadow: 10px 10px 10px rgb(145, 141, 141);
+    margin-bottom: 10px;
+  }
+  .about1 {
+    margin-left: 630px;
+  }
+  .about2 {
+    margin-left: 560px;
+  }
+  .tec {
+    text-align: center;
+  }
+  .res {
+    text-align: center;
+  }
+  .animation{
+    background-color: rgb(163, 44, 193);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor:pointer;
+    margin-right: 8px;
+    transition: 0.15s;
+    vertical-align: top;
+    margin-bottom: 30px;
+    border-bottom-style:groove
+    
+}
+.animation:hover{
+    opacity: 0.6;
+    box-shadow: 10px 10px 10px rgb(145, 141, 141);
+}
+.animation:active{
+    opacity: 0.3;
+}
+div {
+  width: 1400px;
+  margin: auto;
+  
+}
